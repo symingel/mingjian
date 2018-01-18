@@ -18,7 +18,7 @@ class Test
 	public function show(){
 		$this->init->data();
 
-		echo 'hello world version 2.0';
+		echo 'hello world ming version 3.0';
 	}
 }
 
